@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Thomas's github stats](https://github-readme-stats.vercel.app/api?username=ThomasCarstens)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on an online course for students to learn distributed systems.
+- 🌱 I’m currently learning the foundations of blockchain technology.
 
+[![Thomas's github stats](https://github-readme-stats.vercel.app/api?username=ThomasCarstens)](https://github.com/anuraghazra/github-readme-stats)
+[My Linkedin](https://www.linkedin.com/in/thomas-carstens-31632468/)
