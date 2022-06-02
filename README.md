@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning the foundations of blockchain technology.
 
 [![Thomas's github stats](https://github-readme-stats.vercel.app/api?username=ThomasCarstens)](https://github.com/anuraghazra/github-readme-stats)
-[My Linkedin](https://www.linkedin.com/in/thomas-carstens-31632468/)
+
+- 📫 How to reach me: on [my Linkedin](https://www.linkedin.com/in/thomas-carstens-31632468/).
