@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on an online course to learn distributed networking.
-- 🌱 I’m currently appraising the foundations of blockchain technology.
+- 🔭 I’m currently developing an online course for people who want to build personalised crossreality experiences.
+- 🌱 I’m currently appraising the foundations of blockchain development thanks to the work of Patrick Collins and freeCodeCamp.
 
 
      [![Thomas's github stats](https://github-readme-stats.vercel.app/api?username=ThomasCarstens)](https://github.com/anuraghazra/github-readme-stats)
