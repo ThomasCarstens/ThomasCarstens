@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 🔭 I develop personalised mixed reality experiences in my free time.
 - 🌱 I’m currently appraising the foundations of blockchain development.
-- 👯 I’m looking to collaborate on projects somewhere in between.
-#diy #cross-cultural #data-networking #blockchain #robotics
+- 👯 I'm available to work. My interest is piqued by ambitious projects.
+- ⚡ I studied #electromech-eng #data-networking #blockchain #robotics
 <!--      [![Thomas's github stats](https://github-readme-stats.vercel.app/api?username=ThomasCarstens)](https://github.com/anuraghazra/github-readme-stats) -->
 - 📫 How to reach me: on [my Linkedin](https://www.linkedin.com/in/thomas-carstens-31632468/).
