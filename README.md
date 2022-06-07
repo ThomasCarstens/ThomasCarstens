@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently developing an online course for people who want to build personalised crossreality experiences.
-- 🌱 I’m currently appraising the foundations of blockchain development thanks to the work of Patrick Collins and freeCodeCamp.
+- 🔭 I develop personalised mixed reality experiences in my free time.
+- 🌱 I’m currently appraising the foundations of blockchain development.
+- 👯 I’m looking to collaborate on projects somewhere in between.
+#diy #cross-cultural #data-networking #blockchain #robotics
 <!--      [![Thomas's github stats](https://github-readme-stats.vercel.app/api?username=ThomasCarstens)](https://github.com/anuraghazra/github-readme-stats) -->
 - 📫 How to reach me: on [my Linkedin](https://www.linkedin.com/in/thomas-carstens-31632468/).
