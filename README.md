@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Who am I?
+What will you find here?
 - 🔭 I explore mixed reality experiences in my free time.
 - 🌱 I’m currently appraising the foundations of blockchain development.
 - 👯 Let me show you my skills in #electromech-eng #data-networking #blockchain #robotics
