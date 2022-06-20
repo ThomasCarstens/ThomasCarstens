@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 What will you find here?
 - 🔭 I explore mixed reality experiences in my free time.
 - 🌱 I’m currently appraising the foundations of blockchain development.
-- 👯 Let me show you my skills in #electromech-eng #data-networking #blockchain #robotics
+- ⚡ Let me show you my skills in #electromech-eng #data-networking #blockchain #robotics
 <!--      [![Thomas's github stats](https://github-readme-stats.vercel.app/api?username=ThomasCarstens)](https://github.com/anuraghazra/github-readme-stats) -->
 - 📫 How to reach me: on [my Linkedin](https://www.linkedin.com/in/thomas-carstens-31632468/).
