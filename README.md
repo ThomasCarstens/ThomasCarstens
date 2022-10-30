@@ -17,9 +17,9 @@ What will you find here?
 
 🔭 I design mixed reality experiences in my free time.
 
-🌱 I’m currently appraising the foundations of blockchain development.
+🌱 I have experience in robotics software for autonomous robots.
 
-⚡ Let me show you my skills in #electromech-eng #data-networking #blockchain #robotics
+⚡ Let me show you my skills in #electromech-eng #data-networking #networking #robotics
 
 <!--      [![Thomas's github stats](https://github-readme-stats.vercel.app/api?username=ThomasCarstens)](https://github.com/anuraghazra/github-readme-stats) -->
 
