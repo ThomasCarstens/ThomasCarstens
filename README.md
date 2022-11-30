@@ -19,7 +19,7 @@ What will you find here?
 
 🌱 I have experience in robotics software for autonomous robots.
 
-⚡ Let me show you my skills in #electromech-eng #data-networking #networking #robotics
+⚡ Find my project showcase in [my online portfolio](thomascarstens.github.io). 
 
 <!--      [![Thomas's github stats](https://github-readme-stats.vercel.app/api?username=ThomasCarstens)](https://github.com/anuraghazra/github-readme-stats) -->
 
