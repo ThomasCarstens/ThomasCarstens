@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 What will you find here?
 
-🔭 I design mixed reality experiences in my free time.
+🌱 I have experience in #DATA=STREAMING #MOBILE-APP #3D-MODELLING #ROBOTIC-SOFTWARE #DATABASES #DATA-VIZ
 
-🌱 I have experience in robotics software for autonomous robots.
+🔭 I design mixed reality experiences in my free time.
 
 ⚡ Find my project showcase in [my online portfolio](https://thomascarstens.github.io). 
 
