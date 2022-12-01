@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 What will you find here?
 
-🌱 I have experience in #DATA=STREAMING #MOBILE-APP #3D-MODELLING #ROBOTIC-SOFTWARE #DATABASES #DATA-VIZ
+🌱 I have experience in #DATA-STREAMING #MOBILE-APP #3D-MODELLING #ROBOTIC-SOFTWARE #DATABASES #DATA-VIZ
 
 🔭 I design mixed reality experiences in my free time.
 
