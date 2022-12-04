@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 -->
 What will you find here?
 
-🌱 I have experience in #DATA-STREAMING #MOBILE-APP #3D-MODELLING #ROBOTIC-SOFTWARE #DATABASES #DATA-VIZ
+🌱 I have experience in #ENG-DESIGN #ROBOTIC-SOFTWARE #DATABASES #DATA-VIZ #SENSOR-STREAMING #MOBILE-APP
 
-🔭 I design mixed reality experiences in my free time.
-
-⚡ Find my project showcase in [my online portfolio](https://thomascarstens.github.io). 
+🔭 Find my project showcase in [my online portfolio](https://thomascarstens.github.io). 
 
 <!--      [![Thomas's github stats](https://github-readme-stats.vercel.app/api?username=ThomasCarstens)](https://github.com/anuraghazra/github-readme-stats) -->
 
-📫 How to reach me: on [my Linkedin](https://www.linkedin.com/in/thomas-carstens-31632468/).
+💬 How to reach me: on [my Linkedin](https://www.linkedin.com/in/thomas-carstens-31632468/).
