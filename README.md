@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 What will you find here?
 
 🌱 I have experience in #ENG-DESIGN #ROBOTIC-SOFTWARE #DATABASES #DATA-VIZ #SENSOR-STREAMING #MOBILE-APP
+[![ENG-DESIGN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=black "ENGINEERING DESIGN")]([https://www.linkedin.com/in/thomas-carstens-31632468/](https://github.com/search?q=engineering-design)
 
 🔭 Find my project showcase in [my online portfolio](https://thomascarstens.github.io). 
 
