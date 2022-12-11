@@ -25,5 +25,5 @@ What will you find here?
 💬 How to reach me: on [![my Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-carstens-31632468/).
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/DenverCoder1/readme-download-button-action/archive/1.0.1.zip)
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-green?style=for-the-badge&logo=download&logoColor=green "Data-viz")](https://github.com/DenverCoder1/readme-download-button-action/archive/1.0.1.zip)
 <!-- END LATEST DOWNLOAD BUTTON -->
