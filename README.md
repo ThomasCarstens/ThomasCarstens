@@ -19,12 +19,12 @@ What will you find here?
 
 🔭 Find my project showcase in my portfolio.
 <!-- [my online portfolio](https://thomascarstens.github.io).  -->
-[![my Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://www.linkedin.com/in/thomas-carstens-31632468/](https://thomascarstens.github.io))
 
 <!--      [![Thomas's github stats](https://github-readme-stats.vercel.app/api?username=ThomasCarstens)](https://github.com/anuraghazra/github-readme-stats) -->
 
-💬 How to reach me: 
-[![my Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-carstens-31632468/)
+💬 Reach me by sending a message on Linkedin.
+<!-- BEGIN LATEST DOWNLOAD BUTTON -->
+[![my Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://www.linkedin.com/in/thomas-carstens-31632468/](https://thomascarstens.github.io)) [![my Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/thomas-carstens-31632468/)
 
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
