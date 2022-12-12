@@ -24,7 +24,7 @@ What will you find here?
 
 💬 Reach me by sending a message on Linkedin.
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![my Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://www.linkedin.com/in/thomas-carstens-31632468/](https://thomascarstens.github.io)) [![my Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-carstens-31632468/)
+[![my Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://thomascarstens.github.io) [![my Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-carstens-31632468/)
 
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
