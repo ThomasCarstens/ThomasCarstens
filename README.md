@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 What will you find here?
 
-⚡ Engineering creative in education & healthcare, trained as mechanical engineer & robotic software developer
+⚡ Engineering creative spanning education & healthcare, trained as mechanical engineer & robotic software developer
 
 🌱 My projects fall in between `#ENG-DESIGN` `#ROBOTIC-SOFTWARE` `#DATABASES` `#DATA-VIZ` `#SENSOR-STREAMING` `#MOBILE-APP`
 
