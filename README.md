@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 💬 Let's network and make the future happen. Reach out by sending a message on Linkedin.
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
- <p align="center">[![my Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://thomascarstens.github.io)          [![my Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-carstens-31632468/) </p>
+[![my Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://thomascarstens.github.io)          [![my Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-carstens-31632468/)
 
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
