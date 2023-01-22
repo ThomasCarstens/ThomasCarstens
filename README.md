@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ⚡ Engineering creative spanning education & healthcare, trained as mechanical engineer & robotic software developer
 
-🌱 My projects fall in between `#ENG-DESIGN` `#ROBOTIC-SOFTWARE` `#DATABASES` `#DATA-VIZ` `#SENSOR-STREAMING` `#MOBILE-APP`
+🌱 `#ENG-DESIGN` `#ROBOTIC-SOFTWARE` `#DATABASES` `#DATA-VIZ` `#SENSOR-STREAMING` `#MOBILE-APP`
 
 🔭 Find my project showcase in my [portfolio](https://thomascarstens.github.io).
 <!-- [my online portfolio](https://thomascarstens.github.io).  -->
@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 
 💬 Let's network and make the future happen. Reach out by sending a message on Linkedin.
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![my Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white#center)](https://thomascarstens.github.io)          [![my Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white#center)](https://www.linkedin.com/in/thomas-carstens-31632468/)
+
+
+[![my Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white#center)](https://www.linkedin.com/in/thomas-carstens-31632468/)
 
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
