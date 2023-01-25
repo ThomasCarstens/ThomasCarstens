@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <!--      [![Thomas's github stats](https://github-readme-stats.vercel.app/api?username=ThomasCarstens)](https://github.com/anuraghazra/github-readme-stats) -->
 
-💬 Let's network and make the future happen. Reach out by sending a message on Linkedin.
+💬 Let's network and make the future happen. Reach out on Linkedin.
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
 
 
