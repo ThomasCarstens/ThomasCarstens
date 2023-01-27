@@ -22,11 +22,8 @@ Here are some ideas to get you started:
 
 <!--      [![Thomas's github stats](https://github-readme-stats.vercel.app/api?username=ThomasCarstens)](https://github.com/anuraghazra/github-readme-stats) -->
 
-💬 Let's talk. Reach out on Linkedin.
-<!-- BEGIN LATEST DOWNLOAD BUTTON -->
-
-
-[![my Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white#center)](https://www.linkedin.com/in/thomas-carstens-31632468/)
+<!-- 💬 Let's talk. Reach out on Linkedin.
+[![my Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white#center)](https://www.linkedin.com/in/thomas-carstens-31632468/) -->
 
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
