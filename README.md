@@ -13,16 +13,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-⚡ Engineering creative spanning education & healthcare, trained as mechanical engineer & robotic software developer
+⚡ Engineering creative touching on education & healthcare, trained as mechanical engineer & robotic software developer
 
 🌱 `#ENG-DESIGN` `#ROBOTIC-SOFTWARE` `#DATABASES` `#DATA-VIZ` `#SENSOR-STREAMING` `#MOBILE-APP`
 
-🔭 Find my project showcase in my [portfolio](https://thomascarstens.github.io).
+🔭 Projects listed in [portfolio](https://thomascarstens.github.io).
 <!-- [my online portfolio](https://thomascarstens.github.io).  -->
 
 <!--      [![Thomas's github stats](https://github-readme-stats.vercel.app/api?username=ThomasCarstens)](https://github.com/anuraghazra/github-readme-stats) -->
 
-💬 Let's network and make the future happen. Reach out on Linkedin.
+💬 Let's talk. Reach out on Linkedin.
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
 
 
