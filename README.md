@@ -18,10 +18,8 @@ Here are some ideas to get you started:
 🌱 `#ENG-DESIGN` `#ROBOTIC-SOFTWARE` `#DATABASES` `#DATA-VIZ` `#SENSOR-STREAMING` `#MOBILE-APP`
 
 Data Viz: Drone data exploration         |     Robotic Software: Luminosity DAQ       |  
-:-------------------------:|:-------------------------:|
 ![](https://github.com/ThomasCarstens/dash_tutorials/blob/main/LIVE/clearing_data_exploration.png)  |  ![](https://github.com/ThomasCarstens/dash_tutorials/blob/main/LIVE/fieldscan_v01.gif)   |  
 Sensor Stream: Overlay    |    Mixed reality: Mobile app |
-:-------------------------:|:-------------------------:|
 ![](https://github.com/ThomasCarstens/opencv-prototypes/raw/master/demo/demo_character2hands.gif) |  ![](https://github.com/Autonomous-Drone-Developers/ar-libraries/blob/fix31_01/assets/carparts.gif) |
 
 
