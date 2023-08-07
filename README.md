@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - ⚡ Motivation: a tech-optimised future for education & healthcare.
-- 🌱 Education in: mechanical engineering & robotics (mechanics, planning and control)
 - 🔭 Projects listed on [my personal website](https://thomascarstens.github.io).
+  
 `#ENG-DESIGN` `#ROBOTIC-SOFTWARE` `#DATABASES` `#DATA-VIZ` `#SENSOR-STREAMING` `#MOBILE-APP`
 
 
