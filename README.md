@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- ⚡ The technology we build must improve our education & healthcare.
+- ⚡ Techno Self-starter. Driven by the need to improve our education & healthcare.
 - 🔭 Projects listed on [my personal website](https://thomascarstens.github.io).
   
 `#ENG-DESIGN` `#ROBOTIC-SOFTWARE` `#DATABASES` `#DATA-VIZ` `#SENSOR-STREAMING` `#MOBILE-APP`
