@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - ⚡ Techno Self-starter. Driven by the need to improve our education & healthcare.
-- 🔭 An interest in Community-driven Tech. Come explore my [portfolio](https://thomascarstens.github.io).
+- 🔭 Skillbase in Community-Driven Tech, with formal studies in Mechanical Engineering and Robotics.
+- 🌱 Explore my [portfolio](https://thomascarstens.github.io)
   
-`#ENG-DESIGN` `#ROBOTIC-SOFTWARE` `#DATABASES` `#DATA-VIZ` `#SENSOR-STREAMING` `#MOBILE-APP`
+<!-- `#ENG-DESIGN` `#ROBOTIC-SOFTWARE` `#DATABASES` `#DATA-VIZ` `#SENSOR-STREAMING` `#MOBILE-APP`-->
 
 
 <!-- [my online portfolio](https://thomascarstens.github.io).  -->
