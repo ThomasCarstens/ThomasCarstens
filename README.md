@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-About me
+About me:
 - ⚡ Techno Self-starter. Driven by the need to improve our education & healthcare.
 - 🔭 Skillbase in Community-Driven Tech, with formal studies in Mechanical Engineering and Robotics.
 - 🌱 Explore my [portfolio](https://thomascarstens.github.io)
