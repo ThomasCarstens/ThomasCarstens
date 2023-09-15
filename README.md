@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 About me:
-- ⚡ Techno Self-starter. Driven by the need to improve our education & healthcare.
+- ⚡ Techno-optimist and self-starter. I believe technology must be used to improve our education & healthcare.
 - 🔭 Skillbase in Community-Driven Tech, with formal studies in Mechanical Engineering and Robotics.
 - 🌱 Explore my [portfolio](https://thomascarstens.github.io)
   
