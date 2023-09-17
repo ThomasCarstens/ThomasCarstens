@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 -->
 About me:
 - ⚡ Techno-optimist and self-starter. I believe technology must be used to improve our education & healthcare.
-- 🔭 Skillbase in Community-Driven Tech, with formal studies in Mechanical Engineering and Robotics.
+- 🔭 Currently doing tech for Community Learning, ie. I have built/coordinated multiple platforms for learning.
+- 🔭 Continuously learning about Mechanical Engineering and Robotics for healthcare.
 - 🌱 Explore my [portfolio](https://thomascarstens.github.io)
   
 <!-- `#ENG-DESIGN` `#ROBOTIC-SOFTWARE` `#DATABASES` `#DATA-VIZ` `#SENSOR-STREAMING` `#MOBILE-APP`-->
