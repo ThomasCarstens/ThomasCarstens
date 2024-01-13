@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 About me:
-- ⚡ Techno-optimist and self-starter. I believe technology must be used to improve our education & healthcare.
-- 🔭 I have built apps, online courses and other learning platforms to make education fun. I am driven to improve human lives with disruptive technologies.
-- 🔭 I studied Mechanical and Mechatronic Engineering followed by a Masters in Robotics with a focus on drone swarm research. I subsequently worked on commercialised drones and situational awareness tech.
+- ⚡ Techno-optimist and self-starter.
 - 🌱 Explore my [portfolio](https://thomascarstens.github.io)
   
 <!-- `#ENG-DESIGN` `#ROBOTIC-SOFTWARE` `#DATABASES` `#DATA-VIZ` `#SENSOR-STREAMING` `#MOBILE-APP`-->
