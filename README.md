@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-About me:
+About
 - ⚡ Techno-optimist and self-starter.
 - 🌱 Explore my [Linkedin](https://www.linkedin.com/in/thomas-carstens-31632468/)
   
