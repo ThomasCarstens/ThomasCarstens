@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 About
-- ⚡ Techno-optimist and self-starter.
-- 🌱 Explore my [Linkedin](https://www.linkedin.com/in/thomas-carstens-31632468/)
+- ⚡ Pinned projects below
+- 🌱 More on [Linkedin](https://www.linkedin.com/in/thomas-carstens-31632468/)
   
 <!-- `#ENG-DESIGN` `#ROBOTIC-SOFTWARE` `#DATABASES` `#DATA-VIZ` `#SENSOR-STREAMING` `#MOBILE-APP`-->
 
