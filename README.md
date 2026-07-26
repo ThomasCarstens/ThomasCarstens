@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-About
+<img width="1920" height="1080" alt="Thomas Carstens" src="https://github.com/user-attachments/assets/a8752fd6-1c73-4147-ade7-14a5b3c8bde7" />
+
 - ⚡ Pinned projects below
 - 🌱 More on [Linkedin](https://www.linkedin.com/in/thomas-carstens-31632468/)
   
